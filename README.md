@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Diego Adán A. Banner](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin)
+<a href="https://www.linkedin.com/in/ambriz-a-diegoa/" target="_blank">![Diego Adán A. Banner](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin)</a>
 
 </div>
 
@@ -126,7 +126,7 @@ Verify hypotheses about data consistency and system bugs.</p>
   <a href="https://www.linkedin.com/in/ambriz-a-diegoa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diego%20Adán%20A.-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/tuUsuario" target="_blank">
+  <a href="https://github.com/hombred118" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Diego%20Adán%20A.-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </div>
