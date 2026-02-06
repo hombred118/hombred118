@@ -130,12 +130,11 @@ API interactions were validated using POST and GET methods, following the specif
 </div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
-  <h3><a href="https://github.com/hombred118/qa-project-Urban-Grocers-app-es" target="_blank">API Test Automation (Python & Pytest)</a></h3>
-  <p>This project demonstrates:
-    API test automation using Python and Pytest, focused on validating backend functionality for the Urban Grocers application.  
-The work covers REST API testing, authentication handling, positive and negative test cases, and version control using Git & GitHub.
+  <h3><a href="https://github.com/hombred118/qa-project-Urban-Grocers-app-es" target="_blank">End-to-End Web Automation Testing (Selenium)</a></h3>
+  <p>This project automates the complete end-to-end flow of requesting a ride in the Urban Routes web application using Python and Selenium WebDriver.
 
-API interactions were validated using POST and GET methods, following the specifications defined in the API documentation.
+The automation simulates a real user journey, validating each interaction from entering trip addresses to waiting for driver assignment.  
+The focus of this project is UI automation, dynamic elements handling, and end-to-end functional validation.
 </p>
 </div>
 </div>
