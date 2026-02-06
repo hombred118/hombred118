@@ -118,6 +118,33 @@ Verify hypotheses about data consistency and system bugs.</p>
 </div>
 </div>
 
+<div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
+  <h3><a href="https://github.com/hombred118/qa-project-Urban-Grocers-app-es" target="_blank">API Test Automation (Python & Pytest)</a></h3>
+  <p>This project demonstrates:
+    API test automation using Python and Pytest, focused on validating backend functionality for the Urban Grocers application.  
+The work covers REST API testing, authentication handling, positive and negative test cases, and version control using Git & GitHub.
+
+API interactions were validated using POST and GET methods, following the specifications defined in the API documentation.
+</p>
+</div>
+</div>
+
+## 🧪 Urban Grocers – API Test Automation (Python & Pytest)
+
+**Sprint 8 – QA Engineering Project**
+
+**Repository:**  
+🔗 https://github.com/hombred118/qa-project-Urban-Grocers-app-es
+
+---
+
+### Overview
+
+This project demonstrates **API test automation using Python and Pytest**, focused on validating backend functionality for the **Urban Grocers** application.  
+The work covers **REST API testing**, **authentication handling**, **positive and negative test cases**, and **version control using Git & GitHub**.
+
+API interactions were validated using **POST and GET methods**, following the specifications defined in the API documentation.
+
 ---
 
 ## Connect With Me
