@@ -16,16 +16,25 @@ I am a **Test Engineer** with a strong foundation in **test automation**, **API 
 
 ## Key Skills
 
+- **Network:** Static IP, Port Forwarding
 - **API Testing:** Postman, REST Assured
-- **Mobile Testing:** Android Studio Emulator
+- **Mobile Testing:** Android Studio Emulator, Android device
 - **Bug Tracking:** Jira
-- **Programming Languages:** Java, Python, SQL, Linux
+- **Programming Languages:** Java, Python, SQL, Linux, Bash
 
 ---
 
 ## Projects & Highlights
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
+  <h3><a href="https://github.com/hombred118/Personal-Home-media-Server" target="_blank">Personal Home Media Server (Personal Netflix-like-app)</a></h3>
+  <p>This project documents the design, configuration, and quality validation of a personal home media server and streaming platform using Jellyfin.  
+The focus of the project is not only on setup, but on functional, compatibility, and quality testing across multiple devices, formats, and network conditions, applying a QA engineering mindset.
+
+The platform enables secure local and remote streaming of personal media content (movies, videos, images) with attention to playback stability, audio/video quality, and reliability under load.</p>
+</div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
   <h3><a href="https://github.com/hombred118/QA-Tripleten-Sprint1" target="_blank">Development and testing of Urban Routes</a></h3>
