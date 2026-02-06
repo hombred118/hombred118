@@ -130,7 +130,7 @@ API interactions were validated using POST and GET methods, following the specif
 </div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
-  <h3><a href="https://github.com/hombred118/qa-project-Urban-Grocers-app-es" target="_blank">End-to-End Web Automation Testing (Selenium)</a></h3>
+  <h3><a href="https://github.com/hombred118/qa-project-Urban-Routes-es" target="_blank">End-to-End Web Automation Testing (Selenium)</a></h3>
   <p>This project automates the complete end-to-end flow of requesting a ride in the Urban Routes web application using Python and Selenium WebDriver.
 
 The automation simulates a real user journey, validating each interaction from entering trip addresses to waiting for driver assignment.  
